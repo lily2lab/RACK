@@ -30,7 +30,7 @@ If you use this code for your research, please consider citing:
   author={Liu, Xiaoli and Yin, Jianqin and Di, Guo and Liu, Huaping},
   journal={IEEE Transactions on Image Processing},
   year={2023},
-  doi={Transactions on Image Processing};
+  doi={10.1109/TIP.2023.3345737};
   publisher={IEEE}
 }
 ```
