@@ -15,11 +15,16 @@ We will make our preprocessed features available on Baidu Cloud, including featu
 
 
 ## Training/Testing
-
+train/testing of RACK-RGB or RACK-flow
 ```shell
 python train.py --trainfile  "<path of training data>" --tr_labelfile "<path of training label>" --testfile "<path of test data>" --te_labelfile  ="<path of test label>" --save_path "<path to save model>"  --save_results "<path of save testing results>" 
 ```
-To train and test on different datasets, it is necessary to substitute the corresponding features.
+To train and test on different datasets/modalities, it is necessary to substitute the corresponding features.
+
+# Fusion
+```shell
+python two_stream_fusion.py --path_rgb_logits  "<logits of RACK-RGB>" --path_flow_logits "<logits of RACK-flow>" --telabel "<test label>" --segments "<Number of all progress levels>"
+```
 
 # Failed cases
 We will present and analyze some failed cases in "Analysis of some failed cases.pdf".
