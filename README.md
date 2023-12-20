@@ -6,10 +6,12 @@ Xiaoli Liu, Jianqin Yin, Di Guo, and Huaping Liu. Rich Action-semantic Consisten
 
 ## Setup
 Required python libraries: pytorch (>=1.0)  + numpy.
+
 Tested in ubuntu +  GTX 3080Ti with cuda (>=8.0) and cudnn (>=5.0).
 
 ## Datasets
 UCF101, HMDB51, Something-Something V2.
+
 We will make our preprocessed features available on Baidu Cloud, including features of different backbones/datasets. Please reffer to: https://pan.baidu.com/s/1gm6ZjQvG4hUWCKgJ8S3xkA （password：RACK）
 
 
