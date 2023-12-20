@@ -21,6 +21,13 @@ python train.py --trainfile  "<path of training data>" --tr_labelfile "<path of 
 ```
 To train and test on different datasets, it is necessary to substitute the corresponding features.
 
+# Failed cases
+We will present and analyze some failed cases in "Analysis of some failed cases.pdf".
+
+
+# Results
+More results with different combinations are available at "our results with different features.xlsx".
+
 
 ## Citation
 If you use this code for your research, please consider citing:
