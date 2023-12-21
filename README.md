@@ -2,7 +2,7 @@
 # RACK
 This is an official PyTorch implementation of RACK, as outlined below: 
 
-Xiaoli Liu, Jianqin Yin, Di Guo, and Huaping Liu. Rich Action-semantic Consistent Knowledge for Early Action Prediction[J]. IEEE Transactions on Image Processing (TIP), 2023,doi:10.1109/TIP.2023.3345737.
+Xiaoli Liu, Jianqin Yin, Di Guo, and Huaping Liu. Rich Action-semantic Consistent Knowledge for Early Action Prediction[J]. IEEE Transactions on Image Processing (TIP), 2023, doi:10.1109/TIP.2023.3345737.
 
 ## Setup
 Required python libraries: pytorch (>=1.0)  + numpy.
