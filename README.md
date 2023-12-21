@@ -29,7 +29,7 @@ python two_stream_fusion.py --path_rgb_logits  "<logits of RACK-RGB>" --path_flo
 ```
 
 # Failed cases
-We will present and analyze some failed cases in "Analysis of some failed cases.pdf".
+We will present and analyze some failed cases in "Some in-depth analysis of the failed cases on HMDB51 in Fig. 5.pdf".
 
 
 # Results
